@@ -96,7 +96,7 @@ Increase mission control efficiency, reduce development time for custom interfac
 **Example Command/Telemetry Definitions:**
 
 `command.json`
-```
+```json
 {
   "command_name": "ENABLE_TLM_OUTPUT",
   "description": "Enables transmission of telemetry data through the radios.",
@@ -127,7 +127,7 @@ Increase mission control efficiency, reduce development time for custom interfac
 ```
 
 `telemetry.json`
-```
+```json
 {
   "telemetry_name": "TLM_OUTPUT_HK",
   "description": "Housekeeping Telemetry Packet",

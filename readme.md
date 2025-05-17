@@ -216,7 +216,7 @@ Develop an interactive 3D visualization system that:
 Enhances spacecraft safety and diagnostics by transforming thermal telemetry into intuitive, interactive 3D visualizations for real-time analysis and alerting.
 
 **Example Dataset:**  
-- [Thermal Data CSV - `thermal_data_final.csv`](./thermal_data.csv)
+- [Thermal Data CSV - `thermal_data.csv`](./thermal_data.csv)
 
 **3D Model Resource:**  
 - [Satellite 3D Model - `satellite.obj`](./satellite.obj)

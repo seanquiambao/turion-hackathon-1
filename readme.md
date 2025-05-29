@@ -1,3 +1,10 @@
+# Contact Information
+- Email: slquiambao03@gmail.com
+- Code: https://github.com/shahdivyank/turion-space
+
+
+
+
 # Schedule
 - Kickoff: 9:00am – 9:30am
 - Development: 9:30am – 12:00pm
